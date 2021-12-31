@@ -1,0 +1,5 @@
+.echart_container {
+  width: 100%;
+  height: calc(100vh - 539px);
+  min-height: 180px;
+}

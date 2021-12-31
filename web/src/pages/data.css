@@ -1,0 +1,21 @@
+.data_select {
+  height: calc(100vh - 204px);
+  overflow-x: hidden;
+  overflow-y: scroll;
+  min-height: 390px;
+}
+
+.data_select::-webkit-scrollbar {
+  display: none;
+}
+
+.site-layout-background {
+  background: #fff;
+}
+
+.chart {
+  width: 100%;
+  height: calc(100vh - 357px);
+  min-height: 210px;
+}
+

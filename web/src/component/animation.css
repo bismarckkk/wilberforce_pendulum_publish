@@ -1,0 +1,10 @@
+.animation_container {
+  width: auto;
+  height: 100%;
+}
+
+.animation_card {
+  width: 100%;
+  height: calc(100vh - 159px);
+  min-height: 560px;
+}
